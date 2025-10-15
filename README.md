@@ -37,7 +37,7 @@ A user submits a support request through the ticket web portal. The ticket is as
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The assigned agent investigates and troubleshoots the issue, logging updates in the ticket to maintain a clear record of all actions taken.
+The assigned agent investigates and troubleshoots the issue, logging updates in the ticket to maintain a clear record of all actions taken. This simulates working the ticket and documentation in a real world environment.
 </p>
 <br />
 
