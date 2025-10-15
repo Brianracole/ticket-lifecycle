@@ -45,10 +45,13 @@ The assigned agent investigates and troubleshoots the issue, logging updates in 
 <br />
 
 <p>
-<img width="2560" height="1399" alt="image" src="https://github.com/user-attachments/assets/c64e3541-fb9f-424d-8744-95e243edbcd1" />
+<img width="2560" height="1402" alt="image" src="https://github.com/user-attachments/assets/f527b5e9-2db5-4326-9e3a-f2b2428a7683" />
+
 
 </p>
 <p>
-Once the issue is resolved, the agent documents the solution, communicates the outcome to the user, and closes the ticket. A record of the ticket is maintained for future reference and reporting purposes.
+After resolving the issue, the agent documents the solution, informs the user of the outcome, and closes the ticket. The ticket record is retained for future reference and reporting.
+
+
 </p>
 <br />
