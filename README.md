@@ -29,15 +29,18 @@
 
 </p>
 <p>
-A user submits a support request through the ticket web portal. The ticket is assigned to the appropriate support agent or team. Initial communication with the user involves acknowledging the issue and gathering any missing details. This simulates real user experience in a help desk environment.
+A user submits a support request through the ticket web portal. The ticket is then assigned to the appropriate support agent or team. The agent initiates communication by acknowledging the issue and gathering any missing details. This process simulates a real user experience in a help desk environment.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2558" height="1399" alt="image" src="https://github.com/user-attachments/assets/17ebbecb-6713-4721-befe-6a6662968ce3" />
+
 </p>
 <p>
-The assigned agent investigates and troubleshoots the issue, logging updates in the ticket to maintain a clear record of all actions taken. This simulates working the ticket and documentation in a real world environment.
+The assigned agent investigates and troubleshoots the issue, logging updates in the ticket to maintain a clear record of all actions taken. They also configure ticket properties as needed, such as setting the SLA, updating the department, or reassigning the ticket. This process simulates real-world ticket management and documentation.
+
+
 </p>
 <br />
 
