@@ -25,7 +25,8 @@
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/36335b3f-4770-407d-b18b-a2c5dfa9d944" />
+
 </p>
 <p>
 A user submits a support request through the ticket web portal. The ticket is assigned to the appropriate support agent or team. Initial communication with the user involves acknowledging the issue and gathering any missing details.
