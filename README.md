@@ -29,7 +29,7 @@
 
 </p>
 <p>
-A user submits a support request through the ticket web portal. The ticket is assigned to the appropriate support agent or team. Initial communication with the user involves acknowledging the issue and gathering any missing details.
+A user submits a support request through the ticket web portal. The ticket is assigned to the appropriate support agent or team. Initial communication with the user involves acknowledging the issue and gathering any missing details. This simulates real user experience in a help desk environment.
 </p>
 <br />
 
