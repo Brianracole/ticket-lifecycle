@@ -45,7 +45,8 @@ The assigned agent investigates and troubleshoots the issue, logging updates in 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2560" height="1399" alt="image" src="https://github.com/user-attachments/assets/c64e3541-fb9f-424d-8744-95e243edbcd1" />
+
 </p>
 <p>
 Once the issue is resolved, the agent documents the solution, communicates the outcome to the user, and closes the ticket. A record of the ticket is maintained for future reference and reporting purposes.
